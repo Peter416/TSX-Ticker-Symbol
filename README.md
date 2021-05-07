@@ -2,6 +2,6 @@
 
 This function creates a list of ticker symbols listed on the TSX.
 
-"""
-scs
-"""
+'''python
+x=1
+'''
