@@ -2,6 +2,7 @@
 
 This function creates a list of ticker symbols listed on the TSX.
 
-'''python
-x=1
-'''
+
+```python
+get_tsx_tickers()
+```
